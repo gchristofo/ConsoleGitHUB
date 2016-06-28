@@ -18,6 +18,7 @@ namespace ConsoleApp_Local
             Console.WriteLine("Branch 2, Line 2");
 
             Console.WriteLine("This is a clear test for github environment");
+            Console.WriteLine("This is a clear test 2 for github environment");
 
             Console.ReadKey();
 
